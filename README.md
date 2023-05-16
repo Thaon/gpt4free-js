@@ -8,10 +8,10 @@ Have implemented models here:
 If you do not want your website to appear here, please raise an issue and I will remove it immediately.
 |model|support|status|
 |--|--|--|
-|[forefront.ai](forefront.ai)|GPT-4/gpt3.5|![Active](https://img.shields.io/badge/Active-brightgreen)
-|[aidream](http://aidream.cloud)|GPT-3.5|![Active](https://img.shields.io/badge/Active-brightgreen)
+|[forefront.ai](forefront.ai)|GPT-4/gpt3.5|![Active](https://img.shields.io/badge/Active-grey)
+|[aidream](http://aidream.cloud)|GPT-3.5|![Active](https://img.shields.io/badge/Active-grey)
 |[you.com](you.com)|GPT-3.5|![Active](https://img.shields.io/badge/Active-brightgreen)
-|[phind.com](https://www.phind.com/)|GPT-4 / Internet / good search|![Active](https://img.shields.io/badge/Active-grey)
+|[phind.com](https://www.phind.com/)|GPT-4 / Internet / search|![Active](https://img.shields.io/badge/Active-grey)
 
 ## Run locally
 
