@@ -18,7 +18,7 @@ export class AiDream extends Chat {
   }
 
   async ask(req) {
-    req.options.parse = false;
+    req.options = req.options || {};
     const res = await this.askStream(req);
     const result = {
       text: "",

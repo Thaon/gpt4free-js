@@ -38,6 +38,7 @@ export class Forefrontnew extends Chat {
       pt.end();
       return { text: pt };
     }
+    await freeBrowserPool.init(1, false);
     if (!this.browser) {
       this.browser = freeBrowserPool.getRandom();
     }

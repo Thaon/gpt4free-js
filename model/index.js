@@ -25,7 +25,7 @@ export class ChatModelFactory {
     // register new model here
     this.modelMap.set("you", new You(this.options));
     this.modelMap.set("forefront", new Forefrontnew(this.options));
-    this.modelMap.set("aiDream", new AiDream(this.options));
+    this.modelMap.set("aidream", new AiDream(this.options));
     this.modelMap.set("phind", new Phind(this.options));
   }
 

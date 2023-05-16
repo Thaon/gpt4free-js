@@ -1,6 +1,7 @@
 {
+  "package_name": "gpt4free-js",
   "name": "gpt4free-js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "gpt4free javascript version",
   "main": "index.js",
   "scripts": {
@@ -25,7 +26,16 @@
     "puppeteer": "^20.1.2",
     "tls-client": "^0.0.5",
     "user-agents": "^1.0.1367",
-    "uuid": "^9.0.0",
-    "xregexp": "^5.1.1"
-  }
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thaon/gpt4free-js.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thaon/gpt4free-js/issues"
+  },
+  "homepage": "https://github.com/Thaon/gpt4free-js#readme"
 }

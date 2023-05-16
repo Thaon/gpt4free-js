@@ -20,11 +20,15 @@ If you do not want your website to appear here, please raise an issue and I will
 git clone
 # install modules
 npm i
+```
+
+```javascript
 # import project
 import { generate } from gpt4free-js
 # use it
 generate('you', 'what's the capital of Italy?', [options]).then((res) => console.log(res.text))
 ```
+Note: at the moment only the YOU provider works, sorry, working on it.
 
 ## Test with curl
 
