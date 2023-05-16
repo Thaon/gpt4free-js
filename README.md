@@ -31,9 +31,7 @@ generate('you', 'what's the capital of Italy?', [options]).then((res) => console
 
 Note: at the moment only the YOU provider works, sorry, working on it.
 
-## Test with curl
-
-### generate Params
+## generate Params
 
 ```
 prompt: string; // required
