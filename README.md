@@ -23,9 +23,9 @@ npm i
 ```
 
 ```javascript
-# import project
+// import project
 import { generate } from gpt4free-js
-# use it
+// use it
 generate('you', 'what's the capital of Italy?', [options]).then((res) => console.log(res.text))
 ```
 
