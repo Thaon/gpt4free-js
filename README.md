@@ -6,7 +6,7 @@ Still striving to keep updating.
 
 Have implemented models here:
 If you do not want your website to appear here, please raise an issue and I will remove it immediately.
-|model|support|status|active time|
+|model|support|status|
 |--|--|--|
 |[forefront.ai](forefront.ai)|GPT-4/gpt3.5|![Active](https://img.shields.io/badge/Active-brightgreen)
 |[aidream](http://aidream.cloud)|GPT-3.5|![Active](https://img.shields.io/badge/Active-brightgreen)
@@ -28,6 +28,7 @@ import { generate } from gpt4free-js
 # use it
 generate('you', 'what's the capital of Italy?', [options]).then((res) => console.log(res.text))
 ```
+
 Note: at the moment only the YOU provider works, sorry, working on it.
 
 ## Test with curl
